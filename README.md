@@ -19,6 +19,13 @@
   <img src="https://github.com/user-attachments/assets/af170ca1-51e9-4353-8fe8-1d577ad627ce" alt="mobile version ui" width="335px" />
 </p>
 
+### PC버전과 모바일 버전 와이어프레임
+
+<p>
+  <img src="https://github.com/user-attachments/assets/62b73958-da19-452a-a555-1628c6294927" alt="pc wireframe" width="547px" />
+<img src="https://github.com/user-attachments/assets/e9dc3489-c01c-4385-a5cb-eca6a2ec0f69" alt="mobile wireframe" width="248px"/>
+</p>
+
 ### PC버전과 모바일 버전 사이트 UI 리뉴얼 후
 
 <p>
