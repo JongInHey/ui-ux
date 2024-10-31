@@ -15,8 +15,8 @@
 ### 원본 사이트 UI
 
 <p>
-  <img src="https://github.com/user-attachments/assets/6e6e4f05-8c7d-4c87-b652-14bc261d146b" alt="pc version ui" width="500px" />
-  <img src="https://github.com/user-attachments/assets/af170ca1-51e9-4353-8fe8-1d577ad627ce" alt="mobile version ui" width="365px" />
+  <img src="https://github.com/user-attachments/assets/6e6e4f05-8c7d-4c87-b652-14bc261d146b" alt="pc version ui" width="450px" />
+  <img src="https://github.com/user-attachments/assets/af170ca1-51e9-4353-8fe8-1d577ad627ce" alt="mobile version ui" width="335px" />
 </p>
 
 ### PC버전과 모바일 버전 사이트 UI 리뉴얼 후
